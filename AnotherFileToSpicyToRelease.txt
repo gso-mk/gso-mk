@@ -1,1 +1,3 @@
-some content.
+conflicting changes!
+Oh noes!
+What will we do?
