@@ -1,6 +1,6 @@
 ---
-description: The source of truth.
+description: All about MK...
 ---
 
-# About the Handbook
+# 👑 Mighty Kingdom
 

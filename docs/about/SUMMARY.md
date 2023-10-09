@@ -1,3 +1,4 @@
 # Table of contents
 
-* [About the Handbook](README.md)
+* [👑 Mighty Kingdom](README.md)
+  * [♻ Cadence](mighty-kingdom/cadence.md)
