@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Page](README.md)
+* [The Policy](README.md)
+* [Another thing!](another-thing.md)
